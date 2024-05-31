@@ -1,6 +1,6 @@
 # Profile information
 name: Aleksandra Nenadic
-tagline: Technical Training Manager, Software Sustanability Institute, UK
+tagline: Research Software Training Lead, Software Sustanability Institute, UK
 avatar: alex.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 email: a.nenadic [at] manchester.ac.uk
 phone: 012 345 6789
@@ -17,49 +17,49 @@ orcid: "0010-0042-2269-3894" #id part of ORCID e.g. https://orcid.org/0010-0042-
 location: Manchester, UK
 
 career-summary: 
-  An IT professional who spent most of her working life in academia and research.
+  Aleksandra is an IT professional who spent most of her working life in academia and research.
 
-  Over the past 7 years committed to ongoing improvement of research software practice through training and community
-  engagement work. Driving the trends in training for researchers and scientists in computational and data analysis skills forward
-  and helping develop new training curricula. Maintaining the UK’s pivotal role within
-  the international research training community by running events, training instructors, helping organisations and individuals deliver training
-  for researchers and handling national and international collaborations and outreach with various communities.
+  Over the past years committed to ongoing improvement of research software practice through training and community
+  engagement. Driving the trends in training for researchers and scientists in computational and data analysis skills forward
+  and designing and developing new training curricula. Maintaining the UK’s pivotal role within
+  the international research training community by running events, training instructors, helping academic and industry organisations 
+  deliver training for researchers and handling national and international collaborations and outreach with various communities.
 
-  Prior to moving into project management, worked as a senior research software engineer and gained experience in a variety
-  of platforms, infrastructures, technologies and programming languages. If she writes code these days, it is mainly in Python
-  or Ruby to extract, analyse, visualise and make sense of the data she works with and to help automate her daily tasks.
+  Prior to moving into training and technical project management, worked as a senior research software engineer and technical product manager 
+  in academia and gained experience in a variety of software platforms, infrastructures, technologies and programming languages. 
+  If Aleksandra writes code these days, it is mainly in Python or Ruby to extract, analyse, visualise and make sense of the data she 
+  works with and to help automate her daily tasks or to create code examples for teaching software engineering skills to others. 
 
 work-experiences:
-  - role: Training Team Lead
-    time: 2016 - Present
+  - role: Research Software Training Team Lead
+    time: 2016 - present
     company: Software Sustainability Institute, UK
     intro:
     details: # Give more details about your responsibilities in the role.
-      - Working to improve the provision and access to training in foundational computational and data analysis skills
-        to aid open and reproducible research by diffusion of a model of training based on pedagogical research
+      - Working to improve the provision and access to training in foundational computational and data analysis skills to 
+        reseachers and postgraduates to aid open and reproducible research by diffusion of a model of training based on pedagogical research
         and principles of openness and collaboration
-      - Engaging with UK Higher Education institutions and Doctoral Training Centres, projects and worldwide communities
-        involving research software training - providing them with consultancy, guidance and support around building capability
-        and capacity within their communities 
+      - Engaging with research and academic institutions, Doctoral Training Centres, industrial partners and research communities worldwide
+        and providing them with consultancy, guidance and support around building capability and capacity in computational skills 
       - Helping to increase the scale at which we create computationally skilled researcher base by running instructor training and 
         lesson development training programmes, with a particular focus on inclusion, diversity, equity and accessibility strategies for
         sidelined audiences.
 
-  - role: Technical Training Coordinator
+  - role: Technical Training Coordinator and Product Manager/Lead Architect
     time: 2014 - 2016
-    company: ELIXIR, EU Life Sciences Infrastructure Project
+    company: ELIXIR-UK node, part of EU Life Sciences Infrastructure Project ELIXIR
     intro:
     details:
-      - Designed, project managed and co-developed the TeSS training portal (developed in Ruby on Rails) for browsing and automated discovery
+      - Product Manager/Lead Architect - designed, project managed and co-developed the TeSS training portal (developed in Ruby on Rails) for browsing and automated discovery
         of life sciences training resources
-      - Co-founded and co-led the BioSchemas standard and community for the development of Schema.org markup to structure online training resources in life sciences
+      - Co-founded and co-led the BioSchemas standard and community for the development of Schema.org markup to structure online (datasets, software, and training) resources in life sciences
 
   - role: Product manager
     time: 2013 - 2014
     company: School of Computer Science, University of Manchester, UK
     intro:
     details: 
-      - Product manager for Taverna (scientific workflow execution system developed in Java) and BioCatalogue (registry of web services in life sciences, developed in Ruby on        Rails and deployed on an Openstack academic cloud)
+      - Product manager for Taverna (scientific workflow execution system developed in Java) and BioCatalogue (registry of web services in life sciences, developed in Ruby on Rails and deployed on an Openstack academic cloud)
 
   - role: Senior Research Software Engineer
     time: 2008 - 2013
