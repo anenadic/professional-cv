@@ -138,13 +138,20 @@ projects:
     inclusivity in research. They mainly include project management, open leadership, growing open communities,
     delivering training and organising events.
   assignments:
+    - name: Carpentries Lesson Development Trainer
+      time: 2021 - present
+      link: "https://carpentries.org/blog/2020/11/2021-Carpentries-Executive-Council-Election/"
+      details: |
+        Carpentries Lesson Development Programme is teaching the skills required to collaboratively create open source lessons, 
+        including iterative backward design and development, creating lesson websites with The Carpentries Workbench, and 
+        collaboration skills
     - name: Carpentries Executive Council member
       time: 2021 - 2023
       link: "https://carpentries.org/blog/2020/11/2021-Carpentries-Executive-Council-Election/"
       details: |
         Carpentries Executive Council is responsible for strategic and organisational planning, financial oversight, resource development, 
         approving and monitoring The Carpentries programs and services.
-    - name: Carpentry community engagement
+    - name: Carpentries community engagement
       time: 2014 - present
       link: "https://carpentries.org/"
       details: |
@@ -153,22 +160,22 @@ projects:
         the capacity. Organised and taught at over 20 workshops.
     - name: Lead conference organiser, CarpentryConnect Manchester 2019
       time: 2019
-      details: Project managed the organisation of the event.
+      details: Project managed the organisation of the event
     - name: Conference organiser, CarpentryCon Madison 2020
       time: 2020
-      details: Responsible for website, outreach and programme.
+      details: Responsible for website, outreach and programme
     - name: Conference organiser, RSE Conference 2017
       time: 2017
-      details: Responsible for website and local organisation.
+      details: Responsible for website and local organisatio.
     - name: Expert at Mozilla Open Life Sciences Leadership Programme
       time: 2019 -2020
       details: Guiding early stage researchers and potential academic leaders to becoming Open Science ambassadors.
     - name: Curriculum advisory committee member for Health Data Research UK
       time: 2018-present
-      details: Helping devise a training curriculum for public health research.
+      details: Helping devise a training curriculum for public health research
     - name: BBSRC national capabilities review panel member
       time: 2019
-      details: Reviewing UK bioscience and bioinformatics national capabilities institutions.
+      details: Reviewing UK bioscience and bioinformatics national capabilities institutions
     - name: Volunteer at EuroPython Edinburgh 2018
       time: 2018
       details: Involved with 'Beginner's Day', helping people start coding with Python or solving their coding/data problems.
@@ -179,8 +186,11 @@ projects:
 awards:
   - name: ILM Level 5 Award in Leadership & Management
     detail: 2019
-
-  - name: Certified Carpentry Instructor Trainer
+  
+  - name: Certified Carpentries Lesson Development Trainer
+    detail: 2017
+  
+  - name: Certified Carpentries Instructor Trainer
     detail: 2017
     
   - name: Certified Software & Data Carpentry Instructor
