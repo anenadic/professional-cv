@@ -158,13 +158,19 @@ projects:
       details: |
         Carpentries Executive Council is responsible for strategic and organisational planning, financial oversight, resource development, 
         approving and monitoring The Carpentries programs and services.
+    - name: UK Carpentries community lead
+      time: 2021 - present
+      link: "https://hackmd.io/@local-uk/B132EYCe_"
+      details: |
+        Leading the UK Carpentry instructors community, engagement activities and montly calls, providing welcoming and inclusive environment for the community to network, share their experiences, 
+        explore topics of interest, and find collaborators for training related projects.      
     - name: Carpentries community engagement
       time: 2014 - present
       link: "https://carpentries.org/"
       details: |
         Spreading the adoption of The Carpentries model of teaching, advocating and supporting institutions on becoming members
         of The Carpentries community, recruiting more members into the community and training instructors to help grow
-        the capacity. Organised and taught at over 20 workshops.
+        the capacity. Organised and taught at over 40 workshops.
     - name: Lead conference organiser, CarpentryConnect Manchester 2019
       time: 2019
       details: Project managed the organisation of the event
