@@ -20,7 +20,13 @@
         {% for award in profile.awards %}
         <ul class="list-unstyled resume-awards-list">
             <li class="mb-3">
-                <div class="font-weight-bold">{{ award.name }}</div>
+                <div class="font-weight-bold">
+                {% if award.link %}
+                    <a href="{{ link }}" target="_blank">{{ award.name }}</a>
+                {% else %}
+                    {{ award.name }}
+                {% endif %}
+                </div>        
                 <div class="text-muted">{{ award.detail }}</div>
             </li>
         </ul>
