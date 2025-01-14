@@ -201,16 +201,22 @@ awards:
     detail: 2024
     link: https://esciencelab.org.uk/announcements/awards/2024/10/14/teaching-award-rse/
     
+  - name: Certified Carpentries Trainer for Lesson Development Trainer Training
+    detail: 2023
+    link: https://github.com/carpentries/lessondev-trainer-training
+
+  - name: Certified Carpentries Trainer for Lesson Development Training
+    detail: 2022
+    link: https://carpentries.github.io/lesson-development-training/
+    
   - name: ILM Level 5 Award in Leadership & Management
     detail: 2019
-  
-  - name: Certified Carpentries Lesson Development Trainer
+     
+  - name: Certified Carpentries Trainer for Instructor Training
     detail: 2017
-  
-  - name: Certified Carpentries Instructor Trainer
-    detail: 2017
+    link: https://carpentries.github.io/instructor-training/
     
-  - name: Certified Software & Data Carpentry Instructor
+  - name: Certified Carpentries Software, Data & Library Carpentry Instructor
     detail: 2015
 
   - name: Faculty of Mathematics, University of Belgrade, Award for Best Students
