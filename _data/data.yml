@@ -197,8 +197,10 @@ projects:
       details: Helping people start coding with Python, R and git or solving their coding/data problems as part of month-long celebration of open source software by DigitalOcean, GitHub and Twilio, and locally organised by PyDataMCR, HER+data MCR, RLadiesMCR, PythonNW, and Django Girls MCR.
 
 awards:
-  - name: RSE community's "Training and Education Award": https://esciencelab.org.uk/announcements/awards/2024/10/14/teaching-award-rse/
+  - name: RSE community's "Training and Education Award"
     detail: 2024
+    link: https://esciencelab.org.uk/announcements/awards/2024/10/14/teaching-award-rse/
+    
   - name: ILM Level 5 Award in Leadership & Management
     detail: 2019
   
